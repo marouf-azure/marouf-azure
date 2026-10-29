@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Marouf Ali
 
-<!--
-**marouf-azure/marouf-azure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT support and cloud professional based in Madinah, Saudi Arabia. Microsoft Certified: Azure Administrator Associate (AZ-104) and Azure Fundamentals (AZ-900), with a BS in Electrical Engineering and experience in user support, LMS and Student Information System administration, and technical documentation.
 
-Here are some ideas to get you started:
+Certifications
+Microsoft Certified: Azure Administrator Associate (AZ-104), Jan 2026
+Microsoft Certified: Azure Fundamentals (AZ-900), Dec 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Cloud and networking: Microsoft Azure (virtual machines, virtual networks, VNet peering, storage, RBAC, backup, Azure Firewall, route tables)
+Support: Tier 1 support, incident logging and escalation, user accounts and access, Windows 10/11 troubleshooting
+Documentation: technical documentation, support procedures, step-by-step guides
+
+Projects
+Project	Description
+Azure Hub-and-Spoke Network Lab	Hub-and-spoke network in Azure with Azure Firewall, VNet peering and a user-defined route, tested with Network Watcher
+
+Contact
+Email: engmedgd@gmail.com
+LinkedIn: www.linkedin.com/in/maroof-a-57928636
+
